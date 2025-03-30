@@ -1,2 +1,2 @@
 # Desktop-Photo-Album
-![imag](1.jpeg)
+![imag](https://github.com/lspoplove/Desktop-Photo-Album/blob/main/1.jpg)
